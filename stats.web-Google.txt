@@ -1,0 +1,15 @@
+# Directed graph (each unordered pair of nodes is saved once): web-Google.txt 
+# Webgraph from the Google programming contest, 2002
+# Nodes: 875713 Edges: 5105039
+#Graph build took 419.808599949
+#algorithm--ss------mean------------std-------------max-------------min-------failtime
+# Directed graph (each unordered pair of nodes is saved once): web-Google.txt 
+# Webgraph from the Google programming contest, 2002
+# Nodes: 875713 Edges: 5105039
+# Directed graph (each unordered pair of nodes is saved once): web-Google.txt 
+# Webgraph from the Google programming contest, 2002
+# Nodes: 875713 Edges: 5105039
+#Graph build took 395.316493034
+#algorithm--ss------mean------------std-------------max-------------min-------failtime
+ONE_SIDED	10	622.234769821	0	622.234769821	622.234769821	419769.794838
+TWO_SIDED	10	0.0626819133759	0	0.0626819133759	0.0626819133759	419769.794838

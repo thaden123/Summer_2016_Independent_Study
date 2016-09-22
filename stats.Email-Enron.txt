@@ -1,0 +1,14 @@
+# Directed graph (each unordered pair of nodes is saved once): Email-Enron.txt 
+# Enron email network (edge indicated that email was exchanged, undirected edges)
+# Nodes: 36692 Edges: 367662
+#Graph build took 3.39655518532
+#algorithm--ss------mean------------std-------------max-------------min-------failtime
+ONE_SIDED	10	22.3545270496	24.110883655	81.5118279457	1.33768415451	0.00221681594849
+TWO_SIDED	10	0.0548459688822	0.0832459664674	0.259516954422	0.00121593475342	0.00221681594849
+# Directed graph (each unordered pair of nodes is saved once): Email-Enron.txt 
+# Enron email network (edge indicated that email was exchanged, undirected edges)
+# Nodes: 36692 Edges: 367662
+#Graph build took 20.3079819679
+#algorithm--ss------mean------------std-------------max-------------min-------failtime
+ONE_SIDED	100	87.0643506257	116.567417828	457.452764988	0.000844955444336	1952.4421382
+TWO_SIDED	100	1.08192680193	5.739811963	50.8476169109	0.000128030776978	1952.4421382

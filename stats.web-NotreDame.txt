@@ -1,0 +1,14 @@
+# Directed graph (each unordered pair of nodes is saved once): web-NotreDame.txt 
+# University of Notre Dame web graph from 1999 by Albert, Jeong and Barabasi
+# Nodes: 325729 Edges: 1497134
+#Graph build took 19.425027132
+#algorithm--ss------mean------------std-------------max-------------min-------failtime
+ONE_SIDED	10	2135.04784846	2065.68214059	4200.72998905	69.3657078743	0.0164248943329
+TWO_SIDED	10	3.45401859283	3.43972063065	6.89373922348	0.0142979621887	0.0164248943329
+# Directed graph (each unordered pair of nodes is saved once): web-NotreDame.txt 
+# University of Notre Dame web graph from 1999 by Albert, Jeong and Barabasi
+# Nodes: 325729 Edges: 1497134
+#Graph build took 23.5210249424
+#algorithm--ss------mean------------std-------------max-------------min-------failtime
+ONE_SIDED	100	2904.36874398	3749.94683294	11340.7199562	0.0281848907471	81.5551578999
+TWO_SIDED	100	14.2869959142	44.87341913	196.07049799	5.69820404053e-05	81.5551578999

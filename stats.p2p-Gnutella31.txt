@@ -1,0 +1,19 @@
+# Directed graph (each unordered pair of nodes is saved once): p2p-Gnutella31.txt 
+# Directed Gnutella P2P network from August 31 2002
+# Nodes: 62586 Edges: 147892
+#Graph build took 2.34508609772
+#algorithm--ss------mean------------std-------------max-------------min-------failtime
+ONE_SIDED	10	70.796002388	17.0928703711	86.3382930756	46.9912290573	0.000113248825073
+TWO_SIDED	10	1.17109330495	1.43055861725	3.19219899178	0.0824649333954	0.000113248825073
+# Directed graph (each unordered pair of nodes is saved once): p2p-Gnutella31.txt 
+# Directed Gnutella P2P network from August 31 2002
+# Nodes: 62586 Edges: 147892
+#Graph build took 10.904843092
+#algorithm--ss------mean------------std-------------max-------------min-------failtime
+# Directed graph (each unordered pair of nodes is saved once): p2p-Gnutella31.txt 
+# Directed Gnutella P2P network from August 31 2002
+# Nodes: 62586 Edges: 147892
+#Graph build took 10.9106988907
+#algorithm--ss------mean------------std-------------max-------------min-------failtime
+ONE_SIDED	100	166.5227283	184.449365883	609.414544106	0.737466096878	629.046706915
+TWO_SIDED	100	4.11590229988	15.3366755935	77.3053979874	0.00639319419861	629.046706915

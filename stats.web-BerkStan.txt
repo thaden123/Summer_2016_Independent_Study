@@ -1,0 +1,7 @@
+# Directed graph (each unordered pair of nodes is saved once): web-BerkStan.txt 
+# Berkely-Stanford web graph from 2002
+# Nodes: 685230 Edges: 7600595
+#Graph build took 125.249358892
+#algorithm--ss------mean------------std-------------max-------------min-------failtime
+ONE_SIDED	10	7117.84460843	9553.05061493	26863.6853359	217.336114883	249406.377028
+TWO_SIDED	10	10.4147013426	10.7496644464	25.7970371246	0.298876047134	249406.377028

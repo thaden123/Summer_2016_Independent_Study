@@ -1,0 +1,14 @@
+# Directed graph (each unordered pair of nodes is saved once): Amazon0302.txt 
+# Amazon product co-purchaisng network from March 02 2003
+# Nodes: 262111 Edges: 1234877
+#Graph build took 16.4604871273
+#algorithm--ss------mean------------std-------------max-------------min-------failtime
+ONE_SIDED	10	3093.77879715	2813.14373849	7891.57691312	3.84008002281	1727.47772002
+TWO_SIDED	10	2.91688166724	3.30836311414	9.91423296928	0.00666213035583	1727.47772002
+# Directed graph (each unordered pair of nodes is saved once): Amazon0302.txt 
+# Amazon product co-purchaisng network from March 02 2003
+# Nodes: 262111 Edges: 1234877
+#Graph build took 87.4937169552
+#algorithm--ss------mean------------std-------------max-------------min-------failtime
+ONE_SIDED	100	5057.79481085	5420.09350522	29537.3040071	0.00219392776489	0.000524520874023
+TWO_SIDED	100	79.8772219702	652.040219621	6445.51675701	0.000569105148315	0.000524520874023

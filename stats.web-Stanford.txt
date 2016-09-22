@@ -1,0 +1,14 @@
+# Directed graph (each unordered pair of nodes is saved once): web-Stanford.txt 
+# Stanford web graph from 2002
+# Nodes: 281903 Edges: 2312497
+#Graph build took 26.7997598648
+#algorithm--ss------mean------------std-------------max-------------min-------failtime
+ONE_SIDED	10	5183.75180626	6017.86844919	13675.828603	452.342656851	40274.5865524
+TWO_SIDED	10	550.461417993	776.002319468	1647.89419794	1.13687300682	40274.5865524
+# Directed graph (each unordered pair of nodes is saved once): web-Stanford.txt 
+# Stanford web graph from 2002
+# Nodes: 281903 Edges: 2312497
+#Graph build took 29.9874410629
+#algorithm--ss------mean------------std-------------max-------------min-------failtime
+ONE_SIDED	100	2020.81604197	2503.55619352	8233.90398097	0.0299160480499	263005.090173
+TWO_SIDED	100	271.177707672	1147.30611137	7643.18202305	0.000273942947388	263005.090173
